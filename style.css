@@ -1,3 +1,26 @@
+body{
+    background-color: beige;
+}
 
+.heading {
+    color:darkred;
+    font-family: "Miltonian", serif;
+    text-align: center;
+    font-size: 30px;
+}
 
+.subheading_novels_i_like_to_read_best_to_least_liked {
+    font-family: "Miltonian", serif;
+    color: darkblue;
+}
+
+.subheading_mangas_manhwas_i_like_to_read {
+    font-family: "Miltonian", serif;
+    color: darkorchid;
+}
+
+.subheading_about_hobbies {
+    font-family: "Miltonian", serif;
+    color: crimson;
+}
 

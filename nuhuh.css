@@ -1,0 +1,33 @@
+body {
+    background-color: red;
+    color: blue;
+    font-size: 25px;
+    font-family: "Miltonian", serif;
+}
+
+
+.background {
+    background-image: url(https://i.pinimg.com/564x/05/5d/2e/055d2e02277a937fde6b5982eeff2d09.jpg);
+    background-position: center;
+    background-size: cover;
+    padding: 10px 0px;
+    color: bisque;
+
+}
+
+.bullets {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+
+.specific {
+    color: blanchedalmond;
+}
+
+.writing {
+    border: 5px solid aqua;
+    margin: 10px 15px 15px 10px;
+    padding: 50px 25px;
+}
